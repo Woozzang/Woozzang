@@ -1,5 +1,5 @@
 # 반가워요 ✋🏻
-I'm Woochan Park, working as an iOS Software Engineer at @Onuii, services [설탭](https://www.seoltab.com/index/).
+I'm Woochan Park, working as an iOS Software Engineer at @Onuii, serves [설탭](https://www.seoltab.com/index/).
 
 ### About Me
 - 🏡 Living in: **Seoul,** Republic of Korea
