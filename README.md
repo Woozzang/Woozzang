@@ -13,6 +13,6 @@ I'm Woochan Park, working as an iOS Software Engineer at [@Onuii](https://thevc.
 - **iOS Dev Bootcamp** at [**@Seoul Software Academy**](https://sesac.seoul.kr/common/menu/html/900006001001/detail.do) (21.09 ~ 22.03)
 
 ### Experiences 🔥
-- Excellence prize (우수상) at 9th [**@K-Hackathon**](http://www.k-hackathon.com) (21.11)
+- Excellence prize (한국컨텐츠학회장상) at 9th [**@K-Hackathon**](http://www.k-hackathon.com) (21.11)
 - Selected as final teams (최종 제작지원팀) at [**@Hyundai AutoEver BarrierFree App Contest**](https://www.autoeverapp.kr) (21.09)
 - Undergraduate Research Students at [**@Soongsil Univ. SE Lab**](http://soft.ssu.ac.kr/publication/) (2019.04 ~ 2019.08)
