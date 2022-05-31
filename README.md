@@ -6,7 +6,7 @@ I'm Woochan Park, currently working as an iOS Software Engineer at [@Onuii](http
 - 🏡 Living in: **Seoul,** Republic of Korea
 - 💬 Speaks: Korean, English
 - 📩 Email: [woozzaang@gmail.com](woozzaang@gmail.com)
-- 🕸 Visit my [**Blog - Back to the Basics**](https://woozzang.tistory.com)
+- 🕸 Visit my Blog :: [**Back to the Basics**](https://woozzang.tistory.com)
 
 ### Education 🎓
 - **Bachelor’s degree** at [**@Soongsil Univ. Department of Software**](https://sw.ssu.ac.kr) (22.03)
