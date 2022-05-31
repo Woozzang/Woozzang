@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Mobile_Engineer&fontSize=80&animation=twinking)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:164a6c,100:75c9bf&height=150&section=header&text=Mobile_Engineer&fontSize=75&animation=fadeIn,&fontColor=ffffff)
 # 반가워요 ✋🏻
 I'm Woochan Park, currently working as an iOS Software Engineer at [@Onuii](https://thevc.kr/onuii), serves [설탭](https://www.seoltab.com/index/).
 
