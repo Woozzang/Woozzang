@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:164a6c,100:75c9bf&height=150&section=header&text=iOS_Engineer&fontSize=75&animation=fadeIn,&fontColor=ffffff)
 # 반가워요 ✋🏻
 ### About Me 🥷🏻
 - 🏡 Living in: **Seoul,** Republic of Korea
