@@ -1,9 +1,7 @@
 # 반가워요 ✋🏻
 ### About Me 🥷🏻
-- 🏡 Living in: **Seoul,** Republic of Korea
-- 💬 Speaks: Korean, English
 - 📩 Email: [woozzaang@gmail.com](woozzaang@gmail.com)
-- 🕸 Blog :: [**Back to the Basics**](https://woozzang.tistory.com)
+- 🕸 Blog : [**Back to the Basics**](https://woozzang.tistory.com)
 
 ### Work History 💼
 - iOS Enginner at [@finda](https://finda.co.kr) (2022.08 ~ )
