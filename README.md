@@ -15,4 +15,4 @@
 
 ### Awards and Honors 🏆
 - Excellence prize (한국컨텐츠학회장상) at 9th [**@K-Hackathon**](http://www.k-hackathon.com) (21.11)
-- Selected as final teams (최종제작지원팀) at [**@Hyundai AutoEver BarrierFree App Contest**](https://www.autoeverapp.kr) (21.09)
+- Final teams (최종제작지원팀) at [**@Hyundai AutoEver BarrierFree App Contest**](https://www.autoeverapp.kr) (21.09)
