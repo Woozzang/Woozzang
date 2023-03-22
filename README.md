@@ -1,7 +1,6 @@
 # 반가워요 ✋🏻
 ### About Me 🥷🏻
 - 📩 Email : [woozzaang@gmail.com](woozzaang@gmail.com)
-- 🕸 Blog : [Back to the Basics](https://woozzang.tistory.com)
 
 ### Work History 💼
 - iOS Enginner at [@finda](https://finda.co.kr) (2022.08 ~ )
