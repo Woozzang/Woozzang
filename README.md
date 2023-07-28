@@ -8,5 +8,3 @@
 
 ### Education 🎓
 - **Bachelor’s degree** at [**@Soongsil Univ. Department of Software**](https://sw.ssu.ac.kr) (22.03)
-- **Undergraduate Research Students** at [**@Soongsil Univ. SE Lab**](http://soft.ssu.ac.kr/publication/) (2019.04 ~ 2019.08)
-- **SeSAC iOS Dev Bootcamp** at [**@Seoul Software Academy**](https://sesac.seoul.kr/common/menu/html/900006001001/detail.do) (21.09 ~ 22.03)
