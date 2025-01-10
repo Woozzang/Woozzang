@@ -7,4 +7,4 @@
 - iOS Engineer at [@onuii](https://thevc.kr/onuii), serves [설탭](https://www.seoltab.com/index/) (2021.12 ~ 2022.08)
 
 ### Education 🎓
-- **Bachelor’s degree** at [**@Soongsil Univ. Department of Software**](https://sw.ssu.ac.kr) (22.03)
+- Bachelor’s degree at [@Soongsil Univ. Department of Software](https://sw.ssu.ac.kr) (22.03)
